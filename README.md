@@ -160,24 +160,6 @@ To run the project, execute the following command:
 rails s
 ```
 
-### Run tests
-
-To run tests, run the following command:
-```
-```
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -209,7 +191,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project kindlt ⭐️ the repo
+If you like this project kindly ⭐️ the repo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
